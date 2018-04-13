@@ -25,6 +25,7 @@
 
 ## 용어 정리
 | 영어 | 한국어 |
+|:---:|:---:|
 |open source|오픈소스|
 |open software|공개 소프트웨어|
 |proprietary software|소유권이 있는 소프트웨어|
